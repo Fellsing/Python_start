@@ -24,5 +24,11 @@
 * Освоены структуры данных, работа с файлами и основы ООП.
 * Практикую написание чистого и документированного кода.
 
+## 🎓 My Learning Path
+### SQL (Stepik)
+- **Status:** In progress (Day 2)
+- **Today's Progress:** Solved 32 tasks.
+- **Topics covered:** Table Creation, Foreign Keys, JOINs, Subqueries.
+- **Next step:** Complex queries (CASE, WITH, Window Functions).
 ---
 *«Building a foundation brick by brick, commit by commit.»*
