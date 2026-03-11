@@ -26,9 +26,14 @@
 
 ## 🎓 My Learning Path
 ### SQL (Stepik)
-- **Status:** In progress (Day 2)
-- **Today's Progress:** Solved 32 tasks.
+- **Status:** In progress (Day 3)
+- **Today's Progress:** Solved 1 task.
 - **Topics covered:** Table Creation, Foreign Keys, JOINs, Subqueries.
 - **Next step:** Complex queries (CASE, WITH, Window Functions).
+
+
+### 📊 SQL Progress
+- **Day 1:** Solved 32 tasks. Focus: Table relations & Joins.
+- **Day 2:** Solved 1 task. Focus: Multi-table Inner Joins (Student/Subject relations).
 ---
 *«Building a foundation brick by brick, commit by commit.»*
