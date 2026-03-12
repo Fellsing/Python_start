@@ -35,5 +35,8 @@
 ### 📊 SQL Progress
 - **Day 1:** Solved 32 tasks. Focus: Table relations & Joins.
 - **Day 2:** Solved 1 task. Focus: Multi-table Inner Joins (Student/Subject relations).
+- **Day 3:** Solved 9 tasks. 
+- **Key achievement:** Created a complex report for test success rates using `JOIN`, `GROUP BY`, and data formatting (`CONCAT`, `LEFT`).
+- [View today's query](./sql_practice_day3.sql)
 ---
 *«Building a foundation brick by brick, commit by commit.»*
