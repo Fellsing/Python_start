@@ -38,5 +38,11 @@
 - **Day 3:** Solved 9 tasks. 
 - **Key achievement:** Created a complex report for test success rates using `JOIN`, `GROUP BY`, and data formatting (`CONCAT`, `LEFT`).
 - [View today's query](./sql_practice_day3.sql)
+
+### 🗓 Day 4
+- **Progress:** Solved 16 tasks.
+- **Major Milestone:** Received the SQL Course Completion Certificate! (https://stepik.org/cert/3167156) Сompleted the core part of the course (80%). Currently working on advanced topics: Window Functions, CTE, and CASE expressions. 🎉
+- **Key Query:** Filtering enrollees who didn't meet minimum score requirements using complex multi-table joins.
+- [View today's query](./sql_practice_day4.sql)
 ---
 *«Building a foundation brick by brick, commit by commit.»*
