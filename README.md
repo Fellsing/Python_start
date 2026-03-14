@@ -44,5 +44,10 @@
 - **Major Milestone:** Received the SQL Course Completion Certificate! (https://stepik.org/cert/3167156) Сompleted the core part of the course (80%). Currently working on advanced topics: Window Functions, CTE, and CASE expressions. 🎉
 - **Key Query:** Filtering enrollees who didn't meet minimum score requirements using complex multi-table joins.
 - [View today's query](./sql_practice_day4.sql)
+
+### 🗓 Day 5
+- **Progress:** Solved 10 tasks.
+- **New Skills:** - Database schema modification (`ALTER TABLE`).
+  - Advanced text pattern matching using `REGEXP`.
 ---
 *«Building a foundation brick by brick, commit by commit.»*
