@@ -49,5 +49,13 @@
 - **Progress:** Solved 10 tasks.
 - **New Skills:** - Database schema modification (`ALTER TABLE`).
   - Advanced text pattern matching using `REGEXP`.
+
+### 🗓 Day 6
+- **Progress:** Reached the final stage of the SQL course (~95%).
+- **New Superpowers:**
+  - **CASE Expressions:** Implemented complex conditional logic within SELECT statements.
+  - **CTE (Common Table Expressions):** Used `WITH` clauses to make queries more readable and modular.
+  - **Window Functions:** Started exploring `OVER()`, `RANK()`, and `PARTITION BY` for advanced data analysis.
+- **Key achievement:** Successfully refactored complex joins into clean, readable CTEs.
 ---
 *«Building a foundation brick by brick, commit by commit.»*
