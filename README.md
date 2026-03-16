@@ -18,7 +18,7 @@
 ## 📈 Прогресс обучения
 ### SQL & Databases
 * Статус: Изучение продвинутых выборок (Complex JOINs).
-* Практика: Решение задач на Stepik (80%+ пройдено).
+* Практика: Решение задач на Stepik (100% пройдено).
 
 ### Python Core
 * Освоены структуры данных, работа с файлами и основы ООП.
@@ -58,4 +58,10 @@
   - **Window Functions:** Started exploring `OVER()`, `RANK()`, and `PARTITION BY` for advanced data analysis.
 - **Key achievement:** Successfully refactored complex joins into clean, readable CTEs.
 ---
+
+### 🏆 Day 7. Course Finished! 100% Complete.
+- Mastered: Window functions (LEAD, LAG, ROW_NUMBER), complex CTEs, and UNION operations.
+- [View today's query](./sql_course_final.sql)
+
+
 *«Building a foundation brick by brick, commit by commit.»*
