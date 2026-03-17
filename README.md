@@ -5,7 +5,7 @@
 
 ## 🎯 Текущие цели (Q1-Q2 2026)
 - [x] Завершить углубленный курс SQL (JOINs, Group By, Subqueries).
-- [ ] Изучить архитектуру REST API и начать работу с FastAPI.
+- [x] Изучить архитектуру REST API и начать работу с FastAPI.
 - [ ] Реализовать 2 Full-stack учебных проекта (Python + DB).
 - [ ] Вес: 75 кг (Текущий: 88 кг, Старт: 105 кг) — *дисциплина в теле = дисциплина в коде*.
 
@@ -63,5 +63,10 @@
 - Mastered: Window functions (LEAD, LAG, ROW_NUMBER), complex CTEs, and UNION operations.
 - [View today's query](./sql_course_final.sql)
 
+
+### 🗓 Day 8: FastAPI & Backend
+- [x] Изучил основы FastAPI и SQLAlchemy.
+- [x] Реализовал Full CRUD приложение с базой данных PostgreSQL.
+- [x] Ссылка на проект: [Success Tracker API](ссылка_на_новый_репо) 👈
 
 *«Building a foundation brick by brick, commit by commit.»*
