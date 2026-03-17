@@ -67,6 +67,6 @@
 ### 🗓 Day 8: FastAPI & Backend
 - [x] Изучил основы FastAPI и SQLAlchemy.
 - [x] Реализовал Full CRUD приложение с базой данных PostgreSQL.
-- [x] Ссылка на проект: [Success Tracker API](ссылка_на_новый_репо) 👈
+- [x] Ссылка на проект: [Success Tracker API](https://github.com/Fellsing/SuccessTrackerAPI) 👈
 
 *«Building a foundation brick by brick, commit by commit.»*
